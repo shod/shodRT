@@ -1,0 +1,11 @@
+D:\Work\ShodRT\ShodRT\ShodRT\bin\Debug\ShodRT.exe.config
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ShodRT.exe
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ShodRT.pdb
+D:\Work\ShodRT\ShodRT\ShodRT\bin\Debug\ShodRT.exe
+D:\Work\ShodRT\ShodRT\ShodRT\bin\Debug\ShodRT.pdb
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ShodRT.HexNum.resources
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ShodRT.ShodRT.resources
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\ShodRT.Properties.Resources.resources
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\ShodRT\ShodRT\ShodRT\obj\Debug\GenerateResource.write.1.tlog
